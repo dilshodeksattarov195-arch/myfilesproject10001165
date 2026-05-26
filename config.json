@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterpalidate",
+        "uuid": 4995520,
+        "checksum": "te1ulc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
